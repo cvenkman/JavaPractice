@@ -2,7 +2,7 @@
 
 extends, @Override, super()
 
-### Compiling & Executing
+Compiling & Executing:
 cd src &&
 javac inheritance/Main.java &&
 java inheritance.Main && cd ..
